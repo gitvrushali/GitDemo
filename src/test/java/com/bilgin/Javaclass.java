@@ -11,5 +11,7 @@ public class Javaclass {
 		int c=a+b;
 //addition
 	}
+	
+	
 
 }
